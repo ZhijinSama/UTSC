@@ -1,0 +1,1 @@
+Logisim and Mars requires java environment
